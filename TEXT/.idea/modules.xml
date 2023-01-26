@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/LISTTEXT/LISTTEXT.iml" filepath="$PROJECT_DIR$/LISTTEXT/LISTTEXT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MAPTEXT/MAPTEXT.iml" filepath="$PROJECT_DIR$/MAPTEXT/MAPTEXT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Plane game/Plane game.iml" filepath="$PROJECT_DIR$/Plane game/Plane game.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TEXT.iml" filepath="$PROJECT_DIR$/TEXT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/array/array.iml" filepath="$PROJECT_DIR$/array/array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fanxing/fanxing.iml" filepath="$PROJECT_DIR$/fanxing/fanxing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iotext/iotext.iml" filepath="$PROJECT_DIR$/iotext/iotext.iml" />
+      <module fileurl="file://$PROJECT_DIR$/meiju/meiju.iml" filepath="$PROJECT_DIR$/meiju/meiju.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oop/oop.iml" filepath="$PROJECT_DIR$/oop/oop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reflecttext/reflecttext.iml" filepath="$PROJECT_DIR$/reflecttext/reflecttext.iml" />
+      <module fileurl="file://$PROJECT_DIR$/settext/settext.iml" filepath="$PROJECT_DIR$/settext/settext.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shujujiegou/shujujiegou.iml" filepath="$PROJECT_DIR$/shujujiegou/shujujiegou.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shujujiegouhesuanfa/shujujiegouhesuanfa.iml" filepath="$PROJECT_DIR$/shujujiegouhesuanfa/shujujiegouhesuanfa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/textexception/textexception.iml" filepath="$PROJECT_DIR$/textexception/textexception.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xiancheng/xiancheng.iml" filepath="$PROJECT_DIR$/xiancheng/xiancheng.iml" />
+    </modules>
+  </component>
+</project>
